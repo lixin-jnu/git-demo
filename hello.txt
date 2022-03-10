@@ -10,3 +10,4 @@ lixin is a good boy!->master test
 lixin is a good boy!->hot test
 666
 hot-fix ok!
+github ok!

@@ -12,3 +12,4 @@ lixin is a good boy!->hot test
 hot-fix ok!
 github ok!
 by git-demo-clone
+by lixin-intern
